@@ -1,8 +1,6 @@
 # ansible-ubuntu16.04
 
-[![Build Status](https://travis-ci.org/LIP-Computing/docker-ansible.svg?branch=master)](https://travis-ci.org/LIP-Computing/docker-ansible)
 [![License](http://img.shields.io/:license-apache-blue.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0.html)
-
 
 Docker image with ansible based on the [official Ubuntu Docker Image](https://registry.hub.docker.com/_/ubuntu/)
 
