@@ -1,6 +1,6 @@
-# ansible-ubuntu14.04
-
 [![License](http://img.shields.io/:license-apache-blue.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+# ansible-ubuntu14.04
 
 Docker image with ansible based on the [official Ubuntu Docker Image](https://registry.hub.docker.com/_/ubuntu/)
 
@@ -33,11 +33,16 @@ with ansible_connection=local
 # ansible-playbook <Some playbook>
 ```
 
-## Author
+License
+-------
 
-Mario David: LIP Lisbon and Indigo DataCloud
+Apache v2
 
-## License
+Author Information
+------------------
 
-Apache2
+Mario David: <mariojmdavid@gmail.com>
 
+LIP Lisbon: http://www.lip.pt
+
+Indigo DataCloud: https://www.indigo-datacloud.eu/
