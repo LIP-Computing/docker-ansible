@@ -6,6 +6,6 @@ LABEL description="Run ansible roles and playbooks"
 
 RUN yum -y update \
     && yum -y install epel-release \
-    && yum -y install ansible wget \
+    && yum -y install ansible python-pip vim wget \
     && yum clean all \
     && echo "localhost ansible_connection=local" > /etc/ansible/hosts
